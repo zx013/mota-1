@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899-12-30 00:00:00.000.030,=C:\Users\lenovo\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.041,=C:\Users\lenovo\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.039,C:\Users\lenovo\Documents\RAD Studio\Projects\Unit1.pas=C:\Users\lenovo\Desktop\各类杂物\Delphi\mota\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.164,=C:\Users\lenovo\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.404,C:\Users\lenovo\Documents\RAD Studio\Projects\Project1.dproj=C:\Users\lenovo\Desktop\各类杂物\Delphi\mota\Project1.dproj</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.039,C:\Users\lenovo\Documents\RAD Studio\Projects\Unit1.dfm=C:\Users\lenovo\Desktop\各类杂物\Delphi\mota\Unit1.dfm</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.154,C:\Users\lenovo\Desktop\各类杂物\Delphi\mota\mota.dproj=C:\Users\lenovo\Desktop\各类杂物\Delphi\mota\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
